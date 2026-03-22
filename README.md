@@ -48,10 +48,10 @@ src/
 └── main.tsx
 
 public/
-└── Ayushi_Parmar_Frontend_Developer.pdf  ← place your resume PDF here
+└── Ayushi_Parmar_Frontend_Developer_Resume.pdf  ← place your resume PDF here
 ```
 
 ## Notes
-- Place your resume PDF as `public/Ayushi_Parmar_Frontend_Developer.pdf`
+- Place your resume PDF as `public/Ayushi_Parmar_Frontend_Developer_Resume.pdf`
 - Theme preference is saved to `localStorage`
 - All animations, fonts, and colour variables are identical to the original HTML

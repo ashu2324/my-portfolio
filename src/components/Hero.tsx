@@ -44,7 +44,7 @@ export default function Hero() {
           <a href="#contact" className="btn-primary">Let's Connect →</a>
           <a href="#projects" className="btn-secondary">View Work</a>
           <a
-            href="Ayushi_Parmar_Frontend_Developer.pdf"
+            href="Ayushi_Parmar_Frontend_Developer_Resume.pdf"
             download
             className="btn-secondary"
             style={{ borderColor: 'rgba(232,197,71,0.4)' }}

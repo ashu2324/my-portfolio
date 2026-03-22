@@ -27,7 +27,7 @@ export default function Navbar() {
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
-        <a href="Ayushi_Parmar_Frontend_Developer.pdf" download className="nav-resume">↓ Download Resume</a>
+        <a href="Ayushi_Parmar_Frontend_Developer_Resume.pdf" download className="nav-resume">↓ Download Resume</a>
         <button className="theme-toggle" onClick={toggle} aria-label="Toggle theme">
           {isLight ? '☀️' : '🌙'}
         </button>
@@ -43,7 +43,7 @@ export default function Navbar() {
         <a href="#projects" className="mobile-nav-link" onClick={closeMenu}>Projects</a>
         <a href="#contact" className="mobile-nav-link" onClick={closeMenu}>Contact</a>
         <a
-          href="Ayushi_Parmar_Frontend_Developer.pdf"
+          href="Ayushi_Parmar_Frontend_Developer_Resume.pdf"
           download
           className="mobile-nav-link"
           onClick={closeMenu}
